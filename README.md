@@ -1,4 +1,4 @@
-# Agoda Properties Listings Dataset Sample
+# Agoda Properties Listings データセットサンプル
 
 <h2>1,000件のレコードからなるサンプルデータセット</h2>
 
